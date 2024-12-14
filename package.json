@@ -4,7 +4,7 @@
   "description": "Sportify is a MERN-based sports management system that simplifies player registration, match scheduling, real-time score updates, and performance tracking, offering a scalable solution for leagues of all sizes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/YusufMalu001/Sportify/issues"
   },
-  "homepage": "https://github.com/YusufMalu001/Sportify#readme"
+  "homepage": "https://github.com/YusufMalu001/Sportify#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.0"
+  }
 }
