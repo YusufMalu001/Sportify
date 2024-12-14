@@ -1,0 +1,19 @@
+{
+  "name": "sportify",
+  "version": "1.0.0",
+  "description": "Sportify is a MERN-based sports management system that simplifies player registration, match scheduling, real-time score updates, and performance tracking, offering a scalable solution for leagues of all sizes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusufMalu001/Sportify.git"
+  },
+  "author": "Yusuf Malu Bhai Wala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusufMalu001/Sportify/issues"
+  },
+  "homepage": "https://github.com/YusufMalu001/Sportify#readme"
+}
